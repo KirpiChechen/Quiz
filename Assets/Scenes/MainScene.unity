@@ -720,10 +720,9 @@ MonoBehaviour:
   _taskText: {fileID: 1945721281}
   _slotPrefab: {fileID: 6838299231881086381, guid: c154237b7ac2b594caaa9ddbcd9a9fbd,
     type: 3}
-  _duration: 2
   _cardBundleDatas:
-  - {fileID: 11400000, guid: 9e034135ed5cfd04fbc43440b70047cc, type: 2}
-  - {fileID: 11400000, guid: 8b4f62254724e7e42b2ef4645341c77c, type: 2}
+  - {fileID: 11400000, guid: a4ac14cdedf041249a066ff8c0463004, type: 2}
+  - {fileID: 11400000, guid: 0c3592d1caad58042b2280fb3723121b, type: 2}
 --- !u!4 &1904875995
 Transform:
   m_ObjectHideFlags: 0
